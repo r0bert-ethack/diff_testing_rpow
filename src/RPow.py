@@ -67,4 +67,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-int(math.log10(int(sys.argv[4]))) + 1
